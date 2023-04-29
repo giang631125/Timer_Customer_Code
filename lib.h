@@ -26,3 +26,6 @@
 #define CTHT_PIN          17  // (A3)
 #define ACTIVE_STATE      LOW
 #define NON_ACTIVE_STATE  HIGH
+
+//git config --global user.name "giang631125"
+//git config --global user.email "honggiang8297@gmail.com"
